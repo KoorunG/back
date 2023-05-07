@@ -1,7 +1,5 @@
 package koorung.blog.post.dto;
 
-import koorung.blog.post.domain.Post;
-import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
